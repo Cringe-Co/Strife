@@ -34,7 +34,6 @@ function App() {
       <div>
         {messages.map((msg, index) => (
           <div key={index}>
-            <p>sadgagfdagdaf</p>
             <b>{msg.user}</b>: {msg.text}
           </div>
         ))}
