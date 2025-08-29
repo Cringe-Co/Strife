@@ -1,1 +1,2 @@
-# Discord-Replacement-Thing
+# Strife
+Discord Replacement Thing
